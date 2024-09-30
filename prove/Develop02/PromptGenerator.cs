@@ -2,7 +2,7 @@ using System.Collections.Generic;
 
 public class PromptGenerator
 {
-    private List<string> _prompts = new List<string>
+    public List<string> _prompts = new List<string>
     {
         "What happened today?",
         "What did I do today that I am proud of?",
